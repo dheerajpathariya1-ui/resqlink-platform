@@ -202,6 +202,40 @@ Built a modular architecture using React, Node.js, Express, MongoDB, and n8n.
 🌍 Multi-City Deployment
 
 ---
+Project Notes / Limitations
+
+✨ This project is fully functional and successfully tested.
+
+📸 However, due to GitHub size and workflow limitations, I have not uploaded all screenshots and workflow visuals.
+
+🔧 Missing items:
+
+🖼️ n8n workflow screenshots (automation flow)
+📧 Email notification sample screenshots (sent via n8n)
+🌐 Some UI/web interaction screenshots
+
+⚙️ These features are implemented and working locally, but not fully documented in this repository.
+
+🚀 What is working
+
+✔️ Backend API is fully functional
+✔️ Frontend is working properly
+✔️ n8n workflow automation is integrated
+✔️ Email automation system is working
+✔️ Local resource sharing logic is complete
+
+💡 Note
+
+This project was built as part of learning + hackathon practice, focusing on:
+
+Full-stack development
+Workflow automation using n8n
+API integration and backend logic
+📌 Future Improvements
+📸 Add complete workflow screenshots
+📧 Add email preview samples
+☁️ Deploy full system online
+📊 Improve UI/UX design
 
 ##
 
